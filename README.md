@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shakil Al Amin</h1>
 <h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>
 
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamin11&label=Profile%20views&color=0e75b6&style=flat" alt="saamin11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saamin11" alt="saamin11" /></a> </p>
